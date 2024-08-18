@@ -7,8 +7,8 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doto_ri)](https://solved.ac/doto_ri)
   <div style="display: flex, height:180px">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=small-goliath&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SMALL_GOLIATH's github stats" />
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-goliath&layout=compact&theme=dracula&hide_border=true" />
+    <img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=small-goliath&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SMALL_GOLIATH's github stats" />
+    <img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-goliath&layout=compact&theme=dracula&hide_border=true" />
   </div>
   
   
