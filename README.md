@@ -62,7 +62,7 @@
 [<img align="left" alt="SMALL_GOLIATH | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="SMALL_GOLIATH | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: https://maeng-dev.tistory.com/
+[website]: https://small-goliath.kro.kr
 [linkedin]: https://www.linkedin.com/in/maeng-inyoung
 [instagram]: https://www.instagram.com/doto.ri_/
 
